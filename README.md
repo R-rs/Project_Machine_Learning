@@ -20,7 +20,7 @@ Explore the different subjects:
 
   
 ### Models Analysed
-<img src="pictures/initial_model_analysis.png" width="600" height="469">
+<img src="pictures/initial_model_analysis.png" width="800" height="625">
 <img src="pictures/ensemble _methods.png" width="800" height="625">
 
 
