@@ -16,7 +16,7 @@ Explore the different subjects:
 - **Train Test Split**
 - Machine Learning Supervised (**KNN**, **Linear Regression**, **Decison Trees**)
 - Ensemble Methods (**Bagging** and **Pasting**, **Random Forests**, **Boosting** such as **AdaBoost**, **Gradient Boost** and **XGBoost**)
-- Hyperparameter Tuning (**Grid Search** and **Random Search**) and Cross Validation
+- Hyperparameter Tuning (**Grid Search** and **Random Search**) and **Cross Validation**
 
   
 ### Models Analysed
