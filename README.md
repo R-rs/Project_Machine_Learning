@@ -19,8 +19,8 @@ Explore the different subjects:
 - Hyperparameter Tuning (**Grid Search** and **Random Search**) and Cross Validation
 
   
-### ERD
-<img src="pictures/initial_model_analysis.png" width="800" height="625">
+### Models Analysed
+<img src="pictures/initial_model_analysis.png" width="600" height="469">
 <img src="pictures/ensemble _methods.png" width="800" height="625">
 
 
